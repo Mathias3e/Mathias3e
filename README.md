@@ -2,8 +2,8 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![processing](https://img.shields.io/badge/Processing-blue?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ![scratch](https://img.shields.io/badge/Scratch-yellow?style=for-the-badge&logo=scratch&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS&logoColor=withe)
+![html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=<white)
+![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
 
 
 
