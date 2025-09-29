@@ -4,7 +4,7 @@
 ![scratch](https://img.shields.io/badge/Scratch-yellow?style=for-the-badge&logo=scratch&logoColor=white)
 ![html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
-![c-sharp](https://img.shields.io/badge/C-Sharp-violet?style=for-the-badge&logo=Sharp&logoColor=white)
+![c-sharp](https://img.shields.io/badge/CSharp-violet?style=for-the-badge&logo=Sharp&logoColor=white)
 
 
 <!--
