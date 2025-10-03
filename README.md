@@ -5,8 +5,7 @@
 ![html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
 ![c-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mathias3e&theme=default&hide_border=true)
-
+![](https://nirzak-streak-stats.vercel.app/?user=Mathias3e&theme=default&hide_border=false)
 
 <!--
 **Mathias3e/Mathias3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
