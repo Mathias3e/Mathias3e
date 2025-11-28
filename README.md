@@ -3,9 +3,9 @@
 ![processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ![scratch](https://img.shields.io/badge/Scratch-FFA800?style=for-the-badge&logo=scratch&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
-![c-sharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![c-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 
 <!--
