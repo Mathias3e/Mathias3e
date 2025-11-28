@@ -4,12 +4,13 @@
 ![scratch](https://img.shields.io/badge/Scratch-yellow?style=for-the-badge&logo=scratch&logoColor=white)
 ![html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
-![c-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mathias3e&theme=default&hide_border=false&height=100px)
+![c-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <!--
 **Mathias3e/Mathias3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://nirzak-streak-stats.vercel.app/?user=Mathias3e&theme=default&hide_border=false&height=100px)
 
 Here are some ideas to get you started:
 
