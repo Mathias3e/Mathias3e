@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
-![scratch](https://img.shields.io/badge/Scratch-FFA800?style=for-the-badge&logo=scratch&logoColor=white)
+![scratch](https://img.shields.io/badge/Scratch-835dd9?style=for-the-badge&logo=scratch&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-d6bf08?style=for-the-badge&logo=javascript&logoColor=white)
@@ -9,6 +9,8 @@
 ![php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![blazor](https://img.shields.io/badge/blazor-5a2a95?style=for-the-badge&logo=blazor&logoColor=white)
+![bash](https://img.shields.io/badge/bash-56b54d?style=for-the-badge&logo=gnubash&logoColor=white)
+![powershell](https://img.shields.io/badge/powershell-2b79d7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDI0IDI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGlkPSJwb3dlcnNoZWxsIj4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMC44MTksMjFoMTguMjNjMC41NjgsMCwxLjEzNS0wLjQ2MiwxLjI2NS0xLjAzMmwzLjY1OS0xNS45MzZDMjQuMTA0LDMuNDYyLDIzLjc0OSwzLDIzLjE4MSwzSDQuOTUxQzQuMzgzLDMsMy44MTYsMy40NjIsMy42ODYsNC4wMzJMMC4wMjcsMTkuOTY4Qy0wLjEwNCwyMC41MzgsMC4yNTEsMjEsMC44MTksMjF6IE0xNi40NDksMTYuNzA1YzAuNTExLDAsMC45MjUsMC40MTIsMC45MjgsMC45MmMtMC4wMDMsMC41MDktMC40MTcsMC45Mi0wLjkyOCwwLjkyYy0wLjAwMiwwLTAuMDA0LDAtMC4wMDYsMEgxMi4wMWMtMC41MTYsMC0wLjkzNC0wLjQxMi0wLjkzNC0wLjkyYzAuMDAzLTAuNTA5LDAuNDE3LTAuOTIsMC45MjgtMC45MmMwLjAwMiwwLDAuMDA0LDAsMC4wMDYsMGg0LjQzM0MxNi40NDUsMTYuNzA1LDE2LjQ0NywxNi43MDUsMTYuNDQ5LDE2LjcwNXogTTQuODEsMTcuMDExbDcuNDItNS4zNTh2LTAuMTFMNy41NjgsNi41OThjLTAuMzgtMC40MDMtMC4zNDEtMS4wNTUsMC4wODgtMS40NTdjMC40MjktMC40MDIsMS4wODYtMC40LDEuNDY2LDAuMDA0bDUuNTk0LDUuOTM0YzAuMzE3LDAuMzM3LDAuMzQxLDAuODQ2LDAuMDksMS4yMzljLTAuMDc2LDAuMTU0LTAuMjM0LDAuMzIyLTAuNTE0LDAuNTE5bC04LjIyOSw1Ljg5MmMtMC40NDksMC4zMjYtMS4wOTQsMC4yMDUtMS40NC0wLjI2OUM0LjI3NywxNy45ODUsNC4zNiwxNy4zMzcsNC44MSwxNy4wMTF6Ij48L3BhdGg+Cjwvc3ZnPg==)
 
 <!--
 **Mathias3e/Mathias3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
