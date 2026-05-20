@@ -8,6 +8,7 @@
 ![c-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![blazor](https://img.shields.io/badge/blazor-5a2a95?style=for-the-badge&logo=blazor&logoColor=white)
 
 <!--
 **Mathias3e/Mathias3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
