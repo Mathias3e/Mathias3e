@@ -21,6 +21,7 @@
 
 ## AI Models
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-cc6c49?style=for-the-badge&logo=claude&logoColor=white)
 
 <!--
 **Mathias3e/Mathias3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
