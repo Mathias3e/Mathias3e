@@ -6,9 +6,6 @@ Hello, I'm Mathias and I'm in my second year of an IT apprenticeship at CKW. In 
 ![Scratch](https://img.shields.io/badge/Scratch-835dd9?style=for-the-badge&logo=scratch&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white)
-
-![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=https://cdn.jsdelivr.net/gh/selfhst/icons/svg/kubuntu.svg&logoColor=white)
-
 ![Javascript](https://img.shields.io/badge/JavaScript-d6bf08?style=for-the-badge&logo=javascript&logoColor=white)
 ![C-sharp](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=Sharp&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
