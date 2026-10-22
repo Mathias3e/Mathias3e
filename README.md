@@ -16,6 +16,7 @@ Hello, I'm Mathias and I'm in my second year of an IT apprenticeship at CKW. In 
 
 ## Framework
 ![Blazor](https://img.shields.io/badge/blazor-5a2a95?style=for-the-badge&logo=blazor&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Platforms
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
